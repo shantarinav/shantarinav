@@ -1,0 +1,74 @@
+<svg width="1280" height="720" viewBox="0 0 1280 720" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Табель. Цифровой наставник — безопасное превью</title>
+  <desc id="desc">Обезличенный макет учебного портала без внутренних данных, видео и вопросов теста.</desc>
+  <rect width="1280" height="720" fill="#F8F8F8"/>
+  <path d="M0 0H1280V720H0V0Z" fill="url(#grid)"/>
+  <rect x="0" y="0" width="560" height="720" fill="url(#hero)"/>
+  <rect x="0" y="0" width="7" height="720" transform="translate(552)" fill="#00BDE6"/>
+
+  <g transform="translate(68 72)">
+    <text fill="#7FDBF0" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="800" letter-spacing="2">УЧЕБНЫЙ ВИДЕОКУРС</text>
+    <text y="88" fill="#FFFFFF" font-family="Segoe UI, Arial, sans-serif" font-size="74" font-weight="900">Табель.</text>
+    <text y="170" fill="#FFFFFF" font-family="Segoe UI, Arial, sans-serif" font-size="74" font-weight="900">Цифровой</text>
+    <text y="252" fill="#FFFFFF" font-family="Segoe UI, Arial, sans-serif" font-size="74" font-weight="900">наставник</text>
+    <text y="318" fill="#DDF6FC" font-family="Segoe UI, Arial, sans-serif" font-size="24" font-weight="600">Локальный учебный портал</text>
+    <text y="356" fill="#DDF6FC" font-family="Segoe UI, Arial, sans-serif" font-size="24" font-weight="600">по табельному учету рабочего времени</text>
+
+    <rect x="0" y="420" width="170" height="54" fill="#FFFFFF"/>
+    <text x="34" y="454" fill="#003F75" font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="800">Начать курс</text>
+    <rect x="188" y="420" width="140" height="54" stroke="#FFFFFF" stroke-width="2"/>
+    <text x="222" y="454" fill="#FFFFFF" font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="800">Уроки</text>
+  </g>
+
+  <g transform="translate(642 72)">
+    <text fill="#003F75" font-family="Segoe UI, Arial, sans-serif" font-size="92" font-weight="900">11</text>
+    <text x="112" y="62" fill="#66747C" font-family="Segoe UI, Arial, sans-serif" font-size="22" font-weight="800">видеоуроков</text>
+
+    <g transform="translate(0 120)">
+      <rect width="520" height="84" fill="#FFFFFF" stroke="#D5D6D6"/>
+      <rect width="7" height="84" fill="#00BDE6"/>
+      <rect x="28" y="24" width="42" height="42" fill="#003F75"/>
+      <text x="41" y="52" fill="#FFFFFF" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="900">01</text>
+      <text x="94" y="36" fill="#003F75" font-family="Segoe UI, Arial, sans-serif" font-size="19" font-weight="850">Отклонения рабочего времени</text>
+      <text x="94" y="62" fill="#66747C" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="650">7 уроков</text>
+    </g>
+
+    <g transform="translate(0 224)">
+      <rect width="520" height="84" fill="#FFFFFF" stroke="#D5D6D6"/>
+      <rect width="7" height="84" fill="#00BDE6"/>
+      <rect x="28" y="24" width="42" height="42" fill="#003F75"/>
+      <text x="41" y="52" fill="#FFFFFF" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="900">02</text>
+      <text x="94" y="36" fill="#003F75" font-family="Segoe UI, Arial, sans-serif" font-size="19" font-weight="850">Кадровые процессы и правила</text>
+      <text x="94" y="62" fill="#66747C" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="650">2 урока</text>
+    </g>
+
+    <g transform="translate(0 328)">
+      <rect width="520" height="84" fill="#FFFFFF" stroke="#D5D6D6"/>
+      <rect width="7" height="84" fill="#003F75"/>
+      <rect x="28" y="24" width="42" height="42" fill="#003F75"/>
+      <text x="41" y="52" fill="#FFFFFF" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="900">03</text>
+      <text x="94" y="36" fill="#003F75" font-family="Segoe UI, Arial, sans-serif" font-size="19" font-weight="850">Документ «Табель»</text>
+      <text x="94" y="62" fill="#66747C" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="650">2 урока</text>
+    </g>
+
+    <g transform="translate(0 472)">
+      <rect width="520" height="98" fill="#EAF8FC" stroke="#A9DDEB"/>
+      <text x="28" y="38" fill="#003F75" font-family="Segoe UI, Arial, sans-serif" font-size="20" font-weight="900">Формат</text>
+      <text x="28" y="70" fill="#1B2A33" font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="650">Каталог уроков, видеоплеер и самопроверка</text>
+    </g>
+  </g>
+
+  <rect x="34" y="650" width="1212" height="1" fill="#D5D6D6"/>
+  <text x="68" y="684" fill="#66747C" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="650">Обезличенное портфолио-превью: без внутренних экранов, учебных видео и тестовых вопросов</text>
+
+  <defs>
+    <pattern id="grid" width="44" height="44" patternUnits="userSpaceOnUse">
+      <path d="M44 0H0V44" stroke="#006BA0" stroke-opacity="0.07"/>
+    </pattern>
+    <linearGradient id="hero" x1="0" y1="0" x2="560" y2="720" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#003F75"/>
+      <stop offset="0.62" stop-color="#006BA0"/>
+      <stop offset="1" stop-color="#00BDE6"/>
+    </linearGradient>
+  </defs>
+</svg>
